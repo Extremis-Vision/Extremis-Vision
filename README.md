@@ -10,3 +10,6 @@ Electronics ⚡ – Working with circuits and hardware to bring projects to life
 3D Modeling 🎨 – Creating models for printing or design purposes.
 Programming 💻 – Coding everything from simple scripts to more complex systems.
 Testing New Tech 🔍 – Experimenting with new tools and technologies to stay ahead.
+Woodworking 🪵 – Crafting and building with wood for custom solutions or creative projects.
+Metal Soldering 🔧 – Working with metals and soldering to assemble or repair parts.
+Forging 🔨 – Shaping and creating custom metalwork using traditional and modern forging techniques.
