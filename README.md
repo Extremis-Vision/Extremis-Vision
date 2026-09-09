@@ -1,4 +1,4 @@
-Hi there! 👋 I’m currently in my second year of engineering school and super passionate about all things tech. While I’m not quite at the skill level I’m aiming for yet, I’ve worked on some cool projects that you might find interesting.
+Hi there! 👋 I’m currently in my fourth year of engineering school and super passionate about all things tech. While I’m not quite at the skill level I’m aiming for yet, I’ve worked on some cool projects that you might find interesting.
 
 One of my favorites is Jarvis, a voice assistant that can answer anything you’d typically ask Siri, Alexa, or Google Assistant. I’ve also built a remote-controlled tank, a shrimp food dispenser, and more – ranging from fun side projects to more ambitious builds.
 
